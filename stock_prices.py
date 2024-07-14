@@ -3,8 +3,8 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
- # Simple Stock Price App
-         ## Developed by Duaa Ali
+# Simple Stock Price App
+###### (Developed by Duaa Ali)
          
 Enter stock market ticker in the box below to get its **closing price** and **volume** charts respectivly!
          
